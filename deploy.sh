@@ -1,5 +1,5 @@
 #!/bin/bash
 
-DEPLOYPATH=/home/lexistec/public_html/application/
+DEPLOYPATH=/home/lexistec/messenger.lexistech.shop/
 
    /bin/cp -R * $DEPLOYPATH
